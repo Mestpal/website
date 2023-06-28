@@ -9,9 +9,9 @@ import SectionBlock from "./components/common/SectionBlock.vue"
       <section-block class="column"/>
     </section>
 
-    <section>
-      <section-block/>
-      <section-block/>
+    <section class="columns">
+      <section-block class="column"/>
+      <section-block class="column"/>
     </section>
   </main>
 </template>
